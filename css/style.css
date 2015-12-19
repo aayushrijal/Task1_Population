@@ -1,0 +1,25 @@
+.bar{
+    fill: steelblue;
+    cursor: pointer;
+  }
+
+  .bar:hover{
+    fill: brown;
+  }
+
+	.axis {
+	  font: 14px sans-serif;
+	}
+
+	.axis path,
+	.axis line {
+	  fill: none;
+	  stroke: #000;
+	  shape-rendering: crispEdges;
+	}
+
+.slice text {
+            font-size: 16pt;
+            font-family: Arial;
+            color: #fff;
+        }

@@ -1,0 +1,39 @@
+[
+	{ 
+		"district" : "Accham", 
+		"male" : 98, 
+		"female" : 82,
+		"total" : 180 
+	},
+	{
+		"district" : "Lalitpur", 
+		"male" : 172, 
+		"female" : 158,
+		"total" : 330 
+	},
+	{ 
+		"district" : "Bhaktapur", 
+		"male" : 192, 
+		"female" : 108,
+		"total" : 300 
+	},
+	{ 
+		"district" : "Kathmandu",
+		"male" : 280, 
+		"female" : 120,
+		"total" : 400
+		
+	},
+	{ 
+		"district" : "Bardiya", 
+		"male" : 101,
+		"female" : 99,
+		"total" : 200
+	},
+	{ 
+		"district" : "Ilam", 
+		"male" : 198, 
+		"female" : 152,
+		"total" : 350 
+	}
+]
